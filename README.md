@@ -1,6 +1,6 @@
-# Gradio Chat Launcher with Ollama
+# Chat Launcher with Ollama
 
-A simple local AI chatbot powered by **Gradio** and **Ollama**.
+A simple local AI chatbot
 
 ## 🚀 Requirements
 - **Python 3.12.7** (Must be installed)
